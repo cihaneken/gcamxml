@@ -1,2 +1,2 @@
 # gcamxml
-Mod Google Camera XML Share
+Bu depo Google Kamera modlar için XML profili paylaşımı amacıyla açılmıştır. 
